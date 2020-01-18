@@ -1,0 +1,1315 @@
+.version.index /* version checker */
+{
+	color: #0000EE;
+	background-color: #4859A9;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #16202B;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 570px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 1px;
+}
+
+#pu1139-4
+{
+	width: 0.01px;
+}
+
+#u1139-4
+{
+	z-index: 2;
+	width: 380px;
+	min-height: 349px;
+	margin-right: -10000px;
+}
+
+#u495
+{
+	z-index: 88;
+	width: 130px;
+	height: 130px;
+	-pie-box-shadow: 8px 0px 40px #7F7F7F;
+	box-shadow: 8px 0px 40px rgba(0,0,0,0.5);
+	border-width: 2px;
+	border-style: solid;
+	border-color: #16202B;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 58px;
+	left: 123px;
+	background: #FFFFFF url("../../images/tobi.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u496-14
+{
+	z-index: 89;
+	width: 359px;
+	min-height: 110px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 12px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 201px;
+	left: 10px;
+}
+
+#u496-2,#u496-3,#u496-5,#u496-6
+{
+	line-height: 14px;
+}
+
+#u496-8,#u496-10,#u496-12
+{
+	line-height: 16px;
+	font-style: italic;
+}
+
+#u533
+{
+	z-index: 131;
+	width: 20px;
+	height: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 321px;
+	left: 153px;
+	background: transparent url("../../images/twitter%20white-u533-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u534
+{
+	z-index: 132;
+	width: 20px;
+	height: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 321px;
+	left: 180px;
+	background: transparent url("../../images/instagram%20white-u534-fr.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u535
+{
+	z-index: 133;
+	width: 16px;
+	height: 14px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 324px;
+	left: 208px;
+	background: transparent url("../../images/icons8-whatsapp-24.png") no-repeat center center;
+	background-size: contain;
+}
+
+#menuu497
+{
+	z-index: 103;
+	width: 350px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 15px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#u498
+{
+	width: 174px;
+	min-height: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u501
+{
+	width: 174px;
+	border-style: solid;
+	border-color: #0071BC;
+	background-color: transparent;
+	padding-bottom: 12px;
+	position: relative;
+	border-width: 0px 0px 2px;
+}
+
+#u504-4
+{
+	width: 174px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-weight: normal;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	top: 6px;
+}
+
+#u501.MuseMenuActive #u504-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 174px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u505
+{
+	width: 174px;
+	min-height: 31px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 176px;
+}
+
+#u506
+{
+	width: 174px;
+	background-color: transparent;
+	padding-bottom: 14px;
+	position: relative;
+}
+
+#u501.MuseMenuActive,#u506.MuseMenuActive
+{
+	width: 174px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u509-4
+{
+	width: 160px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	top: 7px;
+}
+
+#u506.MuseMenuActive #u509-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 160px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u507
+{
+	z-index: 116;
+	width: 14px;
+	height: 14px;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+	left: 160px;
+	background: transparent url("../../images/down.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u506.MuseMenuActive #u507
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 14px;
+	height: 14px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background-size: contain;
+}
+
+#u510
+{
+	width: 180px;
+	background-color: transparent;
+	top: 31px;
+}
+
+#u511
+{
+	width: 178px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0071BC;
+	background-color: #16202B;
+	border-radius: 15px;
+	position: relative;
+}
+
+#u527
+{
+	width: 178px;
+	border-color: #777777;
+	background-color: transparent;
+	border-radius: 15px 15px 0px 0px ;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u527:hover
+{
+	background-color: #0071BC;
+	width: 178px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u528-4
+{
+	width: 170px;
+	min-height: 13px;
+	background-color: transparent;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	line-height: 13px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 11px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 5px;
+	left: 2px;
+}
+
+#u527:hover #u528-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 170px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u526,#u519
+{
+	width: 178px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u522
+{
+	width: 178px;
+	border-color: #777777;
+	background-color: transparent;
+	border-radius: 0px 0px 15px 15px ;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u522:hover
+{
+	background-color: #0071BC;
+	width: 178px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u527.MuseMenuActive,#u522.MuseMenuActive
+{
+	background-color: transparent;
+	width: 178px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u523-4
+{
+	width: 170px;
+	min-height: 13px;
+	background-color: transparent;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	line-height: 13px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 11px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	top: 5px;
+	left: 2px;
+}
+
+#u527.MuseMenuActive #u528-4,#u522:hover #u523-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 170px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u522.MuseMenuActive #u523-4
+{
+	padding-top: 4px;
+	padding-bottom: 0px;
+	min-height: 13px;
+	width: 170px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#pamphletu542
+{
+	z-index: 10;
+	width: 0.01px;
+	height: 806px;
+	margin-left: 11px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#u544
+{
+	z-index: 11;
+	width: 358px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u552
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #C4C4C4;
+	border-radius: 10px;
+	background: transparent url("../../images/salah%20fifa%2020-u552-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u552:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 115px;
+	height: 110px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u556
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	left: 121px;
+	background: transparent url("../../images/seychelles-u556-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u553
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	left: 243px;
+	background: transparent url("../../images/spidermann-u553-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u550
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 116px;
+	background: transparent url("../../images/nakkido-u550-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u548
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 116px;
+	left: 122px;
+	background: transparent url("../../images/bbq-u548-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u551
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 116px;
+	left: 243px;
+	background: transparent url("../../images/football-u551-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u558
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 232px;
+	background: transparent url("../../images/akpata1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u545
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 232px;
+	left: 122px;
+	background: transparent url("../../images/58-u545-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u554
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 232px;
+	left: 243px;
+	background: transparent url("../../images/christamas%20coke-u554-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u555
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 348px;
+	background: transparent url("../../images/burger%20king-u555-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u561
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 348px;
+	left: 122px;
+	background: transparent url("../../images/afrikdawn%20logo-u561-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u562
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 348px;
+	left: 243px;
+	background: #FFFFFF url("../../images/final%20whatsapp%20status-u562-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u557
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 464px;
+	background: #FFFFFF url("../../images/final%20whatsapp%20voice%20call-u557-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u562:hover,#u557:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	width: 115px;
+	height: 110px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain;
+}
+
+#u563
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 464px;
+	left: 122px;
+	background: transparent url("../../images/everton%20football-u563-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u559
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 464px;
+	left: 243px;
+	background: transparent url("../../images/venom%20movie%20poster%202-u559-fr.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u559:hover
+{
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	border-color: #6B6B6B;
+	width: 115px;
+	height: 110px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u560
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 580px;
+	background: transparent url("../../images/2-u560-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u546
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 580px;
+	left: 122px;
+	background: transparent url("../../images/odo-u546-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u564
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 580px;
+	left: 243px;
+	background: transparent url("../../images/yoga%20phone-u564-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u549
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 696px;
+	left: 64px;
+	background: transparent url("../../images/splash%20screen%20oops-u549-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1131
+{
+	position: absolute;
+	width: 115px;
+	height: 110px;
+	border-color: #999999;
+	border-radius: 10px;
+	top: 696px;
+	left: 186px;
+	background: transparent url("../../images/splash%20screen%20success-u1131-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u556:hover,#u553:hover,#u550:hover,#u548:hover,#u551:hover,#u558:hover,#u545:hover,#u554:hover,#u555:hover,#u561:hover,#u563:hover,#u560:hover,#u546:hover,#u564:hover,#u549:hover,#u1131:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #6B6B6B;
+	width: 115px;
+	height: 110px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u565
+{
+	position: absolute;
+	width: 387px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #323E4C;
+	background-color: rgba(28,41,57,0.9);
+	padding-bottom: 44px;
+	top: 53px;
+	left: -14px;
+	-pie-background: rgba(28,41,57,0.9);
+}
+
+#u565popup
+{
+	z-index: 32;
+}
+
+#u582
+{
+	z-index: 33;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/salah%20fifa%2020-u582-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u568
+{
+	z-index: 34;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/seychelles-u568-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u586
+{
+	z-index: 35;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/spidermann-u586-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u598
+{
+	z-index: 36;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/nakkido-u598-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u566
+{
+	z-index: 37;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/bbq-u566-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u567-3
+{
+	z-index: 38;
+	width: 327px;
+	min-height: 40px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-left: 10px;
+	padding-top: 10px;
+	line-height: 20px;
+	color: #DEDEDE;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 441px;
+}
+
+#u590
+{
+	z-index: 41;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/football-u590-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u594
+{
+	z-index: 42;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/akpata2-u594-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u600
+{
+	z-index: 43;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/58.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u574
+{
+	z-index: 44;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/christamas%20coke-u574-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u592
+{
+	z-index: 45;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/burger%20king-u592-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u576
+{
+	z-index: 46;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/afrikdawn%20logo-u576-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u578
+{
+	z-index: 47;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/final%20whatsapp%20status.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u604
+{
+	z-index: 48;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/final%20whatsapp%20voice%20call.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u602
+{
+	z-index: 49;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/everton%20football-u602-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u570
+{
+	z-index: 50;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/venom%20movie%20poster%202.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u588
+{
+	z-index: 51;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/2.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u572
+{
+	z-index: 52;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/odo.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u584
+{
+	z-index: 53;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/yoga%20phone-u584-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u585-3
+{
+	z-index: 54;
+	width: 327px;
+	min-height: 40px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-left: 10px;
+	padding-top: 10px;
+	line-height: 20px;
+	color: #DEDEDE;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 440px;
+	left: 1px;
+}
+
+#u596
+{
+	z-index: 57;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/splash%20screen%20oops-u596-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u1132
+{
+	z-index: 58;
+	width: 343px;
+	height: 541px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/splash%20screen%20success-u1132-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u543
+{
+	position: absolute;
+	width: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 262px;
+	top: 77px;
+	left: 15px;
+}
+
+#u1138-3
+{
+	z-index: 60;
+	width: 19px;
+	border-style: none;
+	border-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	color: #999999;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 262px;
+	left: 6px;
+	background: transparent url("../../images/leftt-u1138-3-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u608
+{
+	position: absolute;
+	width: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 262px;
+	top: 77px;
+	left: 311px;
+}
+
+#u608:active
+{
+	background-color: transparent;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u1137-3
+{
+	z-index: 64;
+	width: 19px;
+	min-height: 9px;
+	border-style: none;
+	border-color: transparent;
+	line-height: 14px;
+	text-align: center;
+	color: #999999;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 262px;
+	left: 6px;
+	background: transparent url("../../images/right-u1137-3-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u606
+{
+	position: absolute;
+	width: 58px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 10px;
+	top: 52px;
+	left: 150px;
+}
+
+#u607-4
+{
+	z-index: 68;
+	width: 36px;
+	min-height: 14px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 10px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 11px;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u789-4
+{
+	z-index: 134;
+	width: 340px;
+	min-height: 25px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 12px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 20px;
+	margin-top: 26px;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u790-6
+{
+	z-index: 138;
+	display: block;
+	vertical-align: top;
+	margin-left: 60px;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u791-6
+{
+	z-index: 144;
+	display: block;
+	vertical-align: top;
+	margin-left: 60px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u792-6
+{
+	z-index: 150;
+	display: block;
+	vertical-align: top;
+	margin-left: 60px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u793-6
+{
+	z-index: 156;
+	display: block;
+	vertical-align: top;
+	margin-left: 60px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u494-15
+{
+	z-index: 73;
+	width: 350px;
+	min-height: 95px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 12px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 15px;
+	margin-top: 9px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u789-2,#u494-3,#u494-5,#u494-11,#u494-13
+{
+	padding-top: 3px;
+}
+
+#u493
+{
+	z-index: 72;
+	width: 80px;
+	height: 80px;
+	margin-left: 150px;
+	margin-top: 9px;
+	position: relative;
+	background: transparent url("../../images/victory.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u492-4
+{
+	z-index: 6;
+	min-height: 38px;
+}
+
+#u492-4-bw
+{
+	z-index: 6;
+	min-height: 38px;
+	margin-top: 17px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
